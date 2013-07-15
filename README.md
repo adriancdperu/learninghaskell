@@ -1,4 +1,4 @@
 learninghaskell
 ===============
 
-leaning haskell from my chromebook
+leaning haskell from my chromebook :D
